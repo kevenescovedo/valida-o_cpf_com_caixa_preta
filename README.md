@@ -13,6 +13,6 @@ se for invalido retorna false
 
 ```javascript
 let valida = new CPF("145.382.206-20");
-let valido  = CPF.validar() //no casso acima retornára retorna true
+let valido  = CPF.validar() //no casso acima retornára true
 
 ```
