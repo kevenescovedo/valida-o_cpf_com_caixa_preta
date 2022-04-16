@@ -12,7 +12,7 @@ se for invalido retorna false
 ## Uso/Exemplos
 
 ```javascript
-const cpf = new ValidaCpf("483.270.518-06");
+const cpf = new ValidaCpf("786.203.450-36");
 console.log(cpf.validar()); //retornará true
 
 ```
